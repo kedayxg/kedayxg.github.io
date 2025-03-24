@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 我的全新 Hugo 网站</title>
+        <link>https://kedayxg.github.io/posts/</link>
+        <description>所有文章 | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 19 Mar 2025 21:50:03 &#43;0800</lastBuildDate><atom:link href="https://kedayxg.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>第一篇文章</title>
+    <link>https://kedayxg.github.io/posts/first-post/</link>
+    <pubDate>Wed, 19 Mar 2025 21:50:03 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>https://kedayxg.github.io/posts/first-post/</guid>
+    <description><![CDATA[<h1 id="第一篇文章" class="headerLink">
+    <a href="#%e7%ac%ac%e4%b8%80%e7%af%87%e6%96%87%e7%ab%a0" class="header-mark"></a>第一篇文章</h1><h2 id="目标" class="headerLink">
+    <a href="#%e7%9b%ae%e6%a0%87" class="header-mark"></a>目标</h2><ul>
+<li>学习量子力学</li>
+<li>学习量子信息</li>
+<li>学习量子计算</li>
+<li>学习AI</li>
+<li>学习量子机器学习</li>
+</ul>
+<h3 id="任务" class="headerLink">
+    <a href="#%e4%bb%bb%e5%8a%a1" class="header-mark"></a>任务</h3><ul>
+<li>完成格里菲斯信息压缩</li>
+<li>完成尼尔森信息压缩</li>
+<li></li>
+</ul>
+<h4 id="量子力学基础公式" class="headerLink">
+    <a href="#%e9%87%8f%e5%ad%90%e5%8a%9b%e5%ad%a6%e5%9f%ba%e7%a1%80%e5%85%ac%e5%bc%8f" class="header-mark"></a>量子力学基础公式</h4><p>$$
+i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)
+$$</p>
+<p>这是时间相关的薛定谔方程。对于定态情形：</p>]]></description>
+</item></channel>
+</rss>
