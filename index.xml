@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>我的全新 Hugo 网站</title>
-        <link>https://kedayxg.github.io/</link>
+        <link>http://example.org/</link>
         <description>我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 19 Mar 2025 21:50:03 &#43;0800</lastBuildDate>
-            <atom:link href="https://kedayxg.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>第一篇文章</title>
-    <link>https://kedayxg.github.io/posts/first-post/</link>
+    <link>http://example.org/posts/first-post/</link>
     <pubDate>Wed, 19 Mar 2025 21:50:03 &#43;0800</pubDate><author>
         <name>作者</name>
-    </author><guid>https://kedayxg.github.io/posts/first-post/</guid>
+    </author><guid>http://example.org/posts/first-post/</guid>
     <description><![CDATA[<h1 id="第一篇文章" class="headerLink">
     <a href="#%e7%ac%ac%e4%b8%80%e7%af%87%e6%96%87%e7%ab%a0" class="header-mark"></a>第一篇文章</h1><h2 id="目标" class="headerLink">
     <a href="#%e7%9b%ae%e6%a0%87" class="header-mark"></a>目标</h2><ul>
